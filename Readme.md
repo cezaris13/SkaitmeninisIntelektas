@@ -31,6 +31,7 @@ The aim of the task is to train a single neuron (perceptron) to solve a two-clas
 - Investigate how classification results depend on different learning rates.
 - Investigate how the results depend on the activation function (threshold, sigmoid).
 - Find the learning rate, number of epochs, activation function, weights that give the most accurate classification results.
+- 
 More info can be found in [this document](/lab2/AI2.pdf).
 
 # [Lab3](/lab3/)
